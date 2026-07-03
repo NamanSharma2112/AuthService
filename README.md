@@ -1,4 +1,4 @@
-# Assiment
+# Assignment
 
 An Express, TypeScript, and MongoDB authentication API with email verification, JWT-based access and refresh tokens, password hashing, and input validation.
 
